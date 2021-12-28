@@ -2,8 +2,8 @@
 
 <p>
    <a href="https://www.notion.so/e301dbd87c6b442691154bc35b1f5548" target="_blank"><img src="https://img.shields.io/badge/Portfolio-DD0B78?style=flat-square&logo=Notion&logoColor=white"/></a>
-  <a href="mailto:wjdtmd789@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wjdtmd789@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-   <a href="https://blog.daum.net/seunghyeon3515" target="_blank"><img src="https://img.shields.io/badge/Blog-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+   <a href="mailto:wjdtmd789@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wjdtmd789@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+   <a href="https://blog.daum.net/seunghyeon3515" target="_blank"><img src="https://img.shields.io/badge/Blog-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
 </p>
 
 ### 😀 About Me
